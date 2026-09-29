@@ -13,7 +13,7 @@ A [Oh My Zsh](https://ohmyz.sh/) / [p10k](https://github.com/romkatv/powerlevel1
 2. Add `aws_account_indicator` to the `plugins` array in your `.zshrc`:
 
    ```zsh
-   plugins=(... aws_account_indicator ...)
+   plugins=(aws-account-indicator)
    ```
 
 3. If using p10k, open your `.p10k.zsh` file. Search for `POWERLEVEL9K_LEFT_PROMPT_ELEMENTS` and add `aws_account_indicator` to the list (recommended just before `prompt_char`):
