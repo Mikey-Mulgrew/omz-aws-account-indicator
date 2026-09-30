@@ -10,7 +10,7 @@ An [Oh My Zsh](https://ohmyz.sh/) / [p10k](https://github.com/romkatv/powerlevel
    cp -r aws-account-indicator $HOME/.oh-my-zsh/custom/plugins/aws-account-indicator
    ```
 
-2. Add `aws_account_indicator` to the `plugins` array in your `.zshrc`:
+2. Add `aws-account-indicator` to the `plugins` array in your `.zshrc`:
 
    ```zsh
    plugins=(aws-account-indicator)
