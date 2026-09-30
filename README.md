@@ -1,6 +1,6 @@
 # aws-account-indicator-omz-plugin
 
-A [Oh My Zsh](https://ohmyz.sh/) / [p10k](https://github.com/romkatv/powerlevel10k) plugin to highlight the current AWS account for which you have credentials.
+An [Oh My Zsh](https://ohmyz.sh/) / [p10k](https://github.com/romkatv/powerlevel10k) plugin to highlight the current AWS account for which you have credentials.
 
 ## Manual Installation
 
